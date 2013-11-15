@@ -1,0 +1,11 @@
+{
+  "main": "app.js",
+  "worker": true,
+  "multi-threaded": true,
+
+  "description":"ssky_Login_Module",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "JunehyukYang",
+  "keywords": ["login", "mongo", "auth", "databases"],
+  "homepage": "https://ssky.me/"
+}
